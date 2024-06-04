@@ -1,0 +1,22 @@
+#recap
+
+1. loops
+2. switch-case
+3. if else ladder
+
+Loops-
+
+1. When something needs to be done repetatively
+
+-while
+-do-while
+-for loop
+
+
+1.
+
+while(condition){
+    //condtion
+
+
+}
